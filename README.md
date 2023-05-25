@@ -1,6 +1,6 @@
 # ByungChan Bae
 
-![skku](https://github.com/nicedavid98/nicedavid98.github.io/assets/124234976/00fff03d-e348-41bb-bede-0fa1862ee9c2)
+![skku](https://github.com/nicedavid98/nicedavid98.github.io/assets/124234976/c69b58a1-b93f-4929-9c5e-a76ba1d4003e)
 
 ## 1) Introduction
 * I'm a growing novice developer. I'm a junior and now double majoring in data science convergence and software at Sungkyunkwan University, and I am interested in Problem Solving and Computer Architectures.
